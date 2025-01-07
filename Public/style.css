@@ -1,0 +1,16 @@
+.round {
+    border-radius: 50%;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Brush Script MT';
+}
+
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
